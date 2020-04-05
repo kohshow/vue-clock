@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+[https://kohshow.github.io/vue-clock/](https://kohshow.github.io/vue-clock/)
+
 ## Build Setup
 
 ``` bash
